@@ -1,5 +1,1 @@
-{
-  "board": ["", "", "", "", "", "", "", "", ""],
-  "turn": "",
-  "players": []
-}
+{"board":["","","","","","","","",""],"turn":null,"players":[null],"sha":"7f7436c1757fd46adc08e7e612f2d9ae2b8378cd"}
